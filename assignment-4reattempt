@@ -1,0 +1,13 @@
+<body>
+    <!-- Hello there -->
+<header>
+    <h1>My website</h1>
+    <h2>About me</h2>
+    <p>This is my website about dogs</p>
+</header>
+
+    <section>
+        <h1>Section 1</h1>
+        <p>This is a section.</p>
+    </section>
+<body>
