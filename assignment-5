@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<header>
+    <title>Coastal Wind Creations</title>
+    <meta charset="utf8"
+</header>
+<section>
+    <h1>Welcome to my Art Gallery</h1>
+    <p>About this work.  Will include further content later</p>
+</section>
+<img src="images/art-image.jpg"
+    alt="Photo of Art Image 1"/>
+<body></body>
+    <h2>Favorite colours</h2>
+    <ol>
+        <li>Red</li>
+        <li>Blue</li>
+        <li>Green</li>
+    </ol>
+<img src="images/nextartimage.jpg"
+    alt="Photo of Art Image Two"/>
+<section>
+    <ul>
+        <li>Apples</li>
+        <li>Bananas</li>
+        <li>Oranges</li>
+    </ul>
+</section>
+<footer>
+    <p>Giaxixa for visiting.</p>
+</footer>
+</html>
