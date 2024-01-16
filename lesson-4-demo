@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Reattempting lesson four</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <header>
+            <h1>Lesson 4: Redo</h1>
+        </header>
+        <main>
+            <section>
+                <h2>Sub-header</h2>
+                <h3>Sub-header</h3>
+                <h4>Sub-header</h4>
+                <h5>Sub-header</h5>
+                <h6>Last Sub Head</h6>
+            </section>
+            <section>
+                <h2> This is my redo paragraph section, flag diff with header here</h2>
+                <p>
+                This is where the content about our h2 will go, the eg in Elle's coding says the following for this section, just to noteLorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt explicabo ullam totam amet? Sapiente nesciunt temporibus atque quasi,et expedita tempore, rem ratione inventore illum earum saepe.Laudantium, corporis vitae? 
+                </p>
+            </section>
+            <section>
+                <h2>Here is my lise section: </h2>
+                <ol>
+                    <li>Item 1</li>
+                    <li>Item 2</li>
+                    <li>Item 3</li>
+                    <li>Item 4</li>
+                </ol>
+                <ul>
+                    <li>Item 1</li>
+                    <li>Item 2</li>
+                </ul>
+            </section>
+        </main>
+        <footer>
+            <h3>Giaxixa for visitng</h3>
+        </footer>
+    </body>
+</html>
+                
