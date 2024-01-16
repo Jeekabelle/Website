@@ -25,7 +25,13 @@
         <li>Bananas</li>
         <li>Oranges</li>
     </ul>
+><p>This is where I will place Hyperlinks.</p>
+<a href="http://www.google.ca">
+    Google 
+</a>
 </section>
+<a href="http://www.google.ca"
+    target="_blank"></a>
 <footer>
     <p>Giaxixa for visiting.</p>
 </footer>
