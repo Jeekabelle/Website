@@ -1,8 +1,36 @@
+*   {font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    /*border: 1px solid red; */
+
+header{
+    border-bottom: 5px solid green;
+}
+.title  {
+    font-size: 48px;
+    text-decoration: underline;
+}
+}
 body {
     background-color:aliceblue;
     color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    header  {padding: 30px;}
 }
 
-h1  {
+h1, h2, h3  {
+    margin-bottom: 20px;
     color: blueviolet;
 }
+
+p   {
+    margin: 15px 0;
+}
+
+section {padding: 30px;}
+
+ul, ol  {
+    margin: 15px;
+}
+footer  {padding: 30px;}
